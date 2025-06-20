@@ -1,0 +1,16 @@
+C:\Users\Raphs\OneDrive\Área de Trabalho\testeZoss\Teste_.NET\ZOSS.Repository\bin\Debug\net8.0\ZOSS.Repository.deps.json
+C:\Users\Raphs\OneDrive\Área de Trabalho\testeZoss\Teste_.NET\ZOSS.Repository\bin\Debug\net8.0\ZOSS.Repository.dll
+C:\Users\Raphs\OneDrive\Área de Trabalho\testeZoss\Teste_.NET\ZOSS.Repository\bin\Debug\net8.0\ZOSS.Repository.pdb
+C:\Users\Raphs\OneDrive\Área de Trabalho\testeZoss\Teste_.NET\ZOSS.Repository\bin\Debug\net8.0\ZOSS.Domain.dll
+C:\Users\Raphs\OneDrive\Área de Trabalho\testeZoss\Teste_.NET\ZOSS.Repository\bin\Debug\net8.0\ZOSS.Domain.pdb
+C:\Users\Raphs\OneDrive\Área de Trabalho\testeZoss\Teste_.NET\ZOSS.Repository\obj\Debug\net8.0\ZOSS.Repository.csproj.AssemblyReference.cache
+C:\Users\Raphs\OneDrive\Área de Trabalho\testeZoss\Teste_.NET\ZOSS.Repository\obj\Debug\net8.0\ZOSS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphs\OneDrive\Área de Trabalho\testeZoss\Teste_.NET\ZOSS.Repository\obj\Debug\net8.0\ZOSS.Repository.AssemblyInfoInputs.cache
+C:\Users\Raphs\OneDrive\Área de Trabalho\testeZoss\Teste_.NET\ZOSS.Repository\obj\Debug\net8.0\ZOSS.Repository.AssemblyInfo.cs
+C:\Users\Raphs\OneDrive\Área de Trabalho\testeZoss\Teste_.NET\ZOSS.Repository\obj\Debug\net8.0\ZOSS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Raphs\OneDrive\Área de Trabalho\testeZoss\Teste_.NET\ZOSS.Repository\obj\Debug\net8.0\ZOSS.Repository.sourcelink.json
+C:\Users\Raphs\OneDrive\Área de Trabalho\testeZoss\Teste_.NET\ZOSS.Repository\obj\Debug\net8.0\ZOSS.Rep.DCC0D0C9.Up2Date
+C:\Users\Raphs\OneDrive\Área de Trabalho\testeZoss\Teste_.NET\ZOSS.Repository\obj\Debug\net8.0\ZOSS.Repository.dll
+C:\Users\Raphs\OneDrive\Área de Trabalho\testeZoss\Teste_.NET\ZOSS.Repository\obj\Debug\net8.0\refint\ZOSS.Repository.dll
+C:\Users\Raphs\OneDrive\Área de Trabalho\testeZoss\Teste_.NET\ZOSS.Repository\obj\Debug\net8.0\ZOSS.Repository.pdb
+C:\Users\Raphs\OneDrive\Área de Trabalho\testeZoss\Teste_.NET\ZOSS.Repository\obj\Debug\net8.0\ref\ZOSS.Repository.dll

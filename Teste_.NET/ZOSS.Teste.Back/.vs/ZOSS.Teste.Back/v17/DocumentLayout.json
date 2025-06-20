@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Teste.Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D469916-963B-459B-9E69-B4114BFB6578}|ZOSS.Teste.Back.csproj|c:\\users\\raphs\\onedrive\\\u00E1rea de trabalho\\testezoss\\teste_.net\\zoss.teste.back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D469916-963B-459B-9E69-B4114BFB6578}|ZOSS.Teste.Back.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D469916-963B-459B-9E69-B4114BFB6578}|ZOSS.Teste.Back.csproj|c:\\users\\raphs\\onedrive\\\u00E1rea de trabalho\\testezoss\\teste_.net\\zoss.teste.back\\zoss.teste.back.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0D469916-963B-459B-9E69-B4114BFB6578}|ZOSS.Teste.Back.csproj|solutionrelative:zoss.teste.back.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D469916-963B-459B-9E69-B4114BFB6578}|ZOSS.Teste.Back.csproj|c:\\users\\raphs\\onedrive\\\u00E1rea de trabalho\\testezoss\\teste_.net\\zoss.teste.back\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D469916-963B-459B-9E69-B4114BFB6578}|ZOSS.Teste.Back.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66DAF9E-C7BA-4D44-B0A8-19CEE0434524}|..\\ZOSS.Services\\ZOSS.Services.csproj|c:\\users\\raphs\\onedrive\\\u00E1rea de trabalho\\testezoss\\teste_.net\\zoss.services\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66DAF9E-C7BA-4D44-B0A8-19CEE0434524}|..\\ZOSS.Services\\ZOSS.Services.csproj|c:\\users\\raphs\\onedrive\\\u00E1rea de trabalho\\testezoss\\teste_.net\\zoss.services\\iservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BE49FE-2BA5-48B5-B22E-41E6EF7BF661}|..\\ZOSS.Repository\\ZOSS.Repository.csproj|c:\\users\\raphs\\onedrive\\\u00E1rea de trabalho\\testezoss\\teste_.net\\zoss.repository\\repository\\categoryrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E817B6CA-A76E-48C2-B137-AD93E05EEF83}|..\\ZOSS.Domain\\ZOSS.Domain.csproj|c:\\users\\raphs\\onedrive\\\u00E1rea de trabalho\\testezoss\\teste_.net\\zoss.domain\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E817B6CA-A76E-48C2-B137-AD93E05EEF83}|..\\ZOSS.Domain\\ZOSS.Domain.csproj|c:\\users\\raphs\\onedrive\\\u00E1rea de trabalho\\testezoss\\teste_.net\\zoss.domain\\dto\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E817B6CA-A76E-48C2-B137-AD93E05EEF83}|..\\ZOSS.Domain\\ZOSS.Domain.csproj|c:\\users\\raphs\\onedrive\\\u00E1rea de trabalho\\testezoss\\teste_.net\\zoss.domain\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZOSS.Teste.Back.http",
+              "DocumentMoniker": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Teste.Back\\ZOSS.Teste.Back.http",
+              "RelativeDocumentMoniker": "ZOSS.Teste.Back.http",
+              "ToolTip": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Teste.Back\\ZOSS.Teste.Back.http",
+              "RelativeToolTip": "ZOSS.Teste.Back.http",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-20T17:24:16.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Teste.Back\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Teste.Back\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:23:10.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Domain\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "..\\ZOSS.Domain\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Domain\\Model\\Category.cs",
+              "RelativeToolTip": "..\\ZOSS.Domain\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:22:13.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Domain\\DTO\\CategoryResponseDto.cs",
+              "RelativeDocumentMoniker": "..\\ZOSS.Domain\\DTO\\CategoryResponseDto.cs",
+              "ToolTip": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Domain\\DTO\\CategoryResponseDto.cs",
+              "RelativeToolTip": "..\\ZOSS.Domain\\DTO\\CategoryResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:22:12.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Domain\\DTO\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "..\\ZOSS.Domain\\DTO\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Domain\\DTO\\CategoryDto.cs",
+              "RelativeToolTip": "..\\ZOSS.Domain\\DTO\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:22:11.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Repository\\Repository\\CategoryRepository .cs",
+              "RelativeDocumentMoniker": "..\\ZOSS.Repository\\Repository\\CategoryRepository .cs",
+              "ToolTip": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Repository\\Repository\\CategoryRepository .cs",
+              "RelativeToolTip": "..\\ZOSS.Repository\\Repository\\CategoryRepository .cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:22:01.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Services\\IService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "..\\ZOSS.Services\\IService\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Services\\IService\\ICategoryService.cs",
+              "RelativeToolTip": "..\\ZOSS.Services\\IService\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:21:55.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Services\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "..\\ZOSS.Services\\Service\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Services\\Service\\CategoryService.cs",
+              "RelativeToolTip": "..\\ZOSS.Services\\Service\\CategoryService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:21:46.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Teste.Back\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Raphs\\OneDrive\\\u00C1rea de Trabalho\\testeZoss\\Teste_.NET\\ZOSS.Teste.Back\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:21:37.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
